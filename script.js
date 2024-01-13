@@ -13,4 +13,5 @@ function mapletters(word){
 		}
 	return lettermap;
 }
-console.log(mapLetters("dodo"));
+let a =prompt();
+alert(mapletters(a));
